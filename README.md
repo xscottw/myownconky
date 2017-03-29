@@ -3,7 +3,7 @@
 --==============================================================================
 --                               conkyrc_dreamrealms
 -- Date    : 03/21/2017
--- Author  : xscottw
+-- Author  : Dreamrealms
 -- Version : v0.1
 -- License : Distributed under the terms of GNU GPL version 3 or later
 -- 
